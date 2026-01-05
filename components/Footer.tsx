@@ -23,7 +23,7 @@ export default function Footer() {
           </Link>
 
           <p className="text-gray-600 dark:text-gray-500 text-sm text-center md:text-right">
-            © {new Date().getFullYear()} Workout Engine. All rights reserved.
+            © 2026 The GooseNet Company. All rights reserved.
           </p>
         </div>
       </div>
